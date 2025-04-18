@@ -113,15 +113,6 @@ A Python tool to track your fishing profits in Black Desert Online (BDO). Log fi
 
 - Report bugs or suggest features via GitHub issues.
 - Propose enhancements (e.g., trade distance bonuses) via pull requests.
-- Share feedback on `r/blackdesertonline` or BDO forums.
 
-## License
-
-MIT License. See `LICENSE` file.
-
-## Contact
-
-- Created by \[Your Name/Username\].
-- Contact via GitHub issues or BDO community platforms.
 
 Enjoy tracking your fishing profits!
